@@ -1,0 +1,30 @@
+.row{
+  margin:30px 0px;
+}
+.card_11{
+  filter: contrast(2);
+}
+.card_12{
+  filter: brightness(2);
+}
+.card_13{
+  filter: blur(2px);
+}
+.card_21{
+  filter:grayscale(2);
+}
+.card_22{
+  filter:invert(2);
+}
+.card_23{
+  filter:opacity(0.4);
+}
+.card_31{
+  filter:sepia(2);
+}
+.card_32{
+  filter:saturate(20);
+}
+.card_33{
+  filter: drop-shadow(16px 1px 10px black);
+}
